@@ -3,6 +3,7 @@ title: "Why You Should Always Update Your Firmware"
 date: 2026-07-25 09:00:00 +0000
 categories: [Hardening]
 tags: [firmware, thinkpad, hardware-security]
+description: "A firmware bug nearly bricked the exact laptop I'm writing this on — a good reminder that some updates matter more than others."
 image:
   path: /assets/img/thumb-firmware.png
   alt: A simple icon representing firmware updates
