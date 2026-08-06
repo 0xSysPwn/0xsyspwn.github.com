@@ -5,7 +5,7 @@ categories: [Lab, Virtualization]
 tags: [kvm, qemu, virtualization, home-lab, virt-manager]
 description: "VirtualBox and VMware always felt a little slow, and I never knew why — until I found out what KVM/QEMU actually does differently."
 image:
-  path: /assets/img/thumb-kvm-qemu.png
+  path: /assets/img/thumb-kvm-qemu.webp
   alt: A simple icon representing lightweight virtualization
 ---
 

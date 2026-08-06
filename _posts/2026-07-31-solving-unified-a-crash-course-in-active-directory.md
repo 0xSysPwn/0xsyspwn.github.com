@@ -5,7 +5,7 @@ categories: [Learning]
 tags: [active-directory, ldap, ctf, hack-the-box, log4j]
 description: "A narrow question about LDAP led nowhere until I realized I was missing the bigger picture — how Active Directory and its protocols fit together."
 image:
-  path: /assets/img/thumb-ldap.png
+  path: /assets/img/thumb-ldap.webp
   alt: A simple icon representing directory services and networked computers
 ---
 

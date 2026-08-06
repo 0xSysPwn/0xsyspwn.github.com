@@ -5,7 +5,7 @@ categories: [Hardening]
 tags: [firmware, thinkpad, hardware-security]
 description: "A firmware bug nearly bricked the exact laptop I'm writing this on — a good reminder that some updates matter more than others."
 image:
-  path: /assets/img/thumb-firmware.png
+  path: /assets/img/thumb-firmware.webp
   alt: A simple icon representing firmware updates
 ---
 
