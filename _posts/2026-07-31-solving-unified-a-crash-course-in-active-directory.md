@@ -32,3 +32,4 @@ You can download the guide down below if you're interested in the Windows ecosys
 
 [Download: The windows enterprise ecosystem (PDF)](/assets/downloads/windows_ecosystem_rationale.pdf)
 
+ 
